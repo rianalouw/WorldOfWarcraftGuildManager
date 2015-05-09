@@ -28,6 +28,6 @@ prototype advances into later development stages. Additionally the success of th
 master. Thus the existing ERD may have to be altered in the future.
 
 ###Data Domain Model###
-![Alt text](images/domainModel.jpg)
+![Alt text](images\domainModel.jpg)
 
 
